@@ -1,0 +1,21 @@
+{
+  "name": "Angular2-Starter",
+  "version": "1.0.0",
+  "main": "src/app/app.js",
+  "dependencies": {
+    "angular2": "2.0.0-alpha.44",
+    "systemjs": "0.19.2"
+  },
+  "devDependencies": {
+    "live-server": "^0.8.2",
+    "typescript": "^1.6.2"
+  },
+  "scripts": {
+    "tsc": "tsc -p src -w",
+    "start": "live-server --open=src"
+  },
+  "author": "Shane Vorachek",
+  "license": "ISC",
+  "keywords": [],
+  "description": ""
+}
